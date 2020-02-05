@@ -7,4 +7,5 @@ A Java project with some code that needs fixes.
 4. Fix the changes
 5. Create a new branch
 6. Push the changes back to Github
-7. Create a pull request
+7. Create a pull qweq
+8. Hello it's Ivi
